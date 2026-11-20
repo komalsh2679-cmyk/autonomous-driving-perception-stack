@@ -260,7 +260,3 @@ This internship project provided practical experience in:
 ## 13. Acknowledgements
 
 Developed as part of the Machine Learning internship at Nexvia Technologies.
-
-## 14. License and Attribution
-
-Review the original repository's license and preserve appropriate third-party attribution before redistributing the modified code. Do not claim ownership of third-party components.
